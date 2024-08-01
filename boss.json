@@ -10,5 +10,29 @@
         "date": "240730",
         "week": 1,
         "id": "W-4GqL0P_Xw"
+    },
+    {
+        "boss": "Normal Damien",
+        "date": "240801",
+        "week": 2,
+        "id": "IUZx2w6FCck"
+    },
+    {
+        "boss": "Normal Lotus",
+        "date": "240801",
+        "week": 2,
+        "id": "5dWkZ4fuX6s"
+    },
+    {
+        "boss": "Normal Lucid",
+        "date": "240801",
+        "week": 2,
+        "id": "dOwIMjpMg98"
+    },
+    {
+        "boss": "Normal Slime",
+        "date": "240801",
+        "week": 2,
+        "id": "rxQWbvqI9YY"
     }
 ]
