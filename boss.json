@@ -52,5 +52,35 @@
         "date": "240813",
         "week": 3,
         "id": "udI4Fh3xbvk"
+    },
+    {
+        "boss": "Normal Lotus",
+        "date": "240817",
+        "week": 4,
+        "id": "m8UMfsuHQ9U"
+    },
+    {
+        "boss": "Easy Will",
+        "date": "240817",
+        "week": 4,
+        "id": "6I14Rd4wr34"
+    },
+    {
+        "boss": "Normal Slime",
+        "date": "240817",
+        "week": 4,
+        "id": "1KcCqqH8g3A"
+    },
+    {
+        "boss": "Normal Lotus",
+        "date": "240823",
+        "week": 5,
+        "id": "fFfdj3pIC9s"
+    },
+    {
+        "boss": "Easy Will",
+        "date": "240823",
+        "week": 5,
+        "id": "fOSMzVuCBnA"
     }
 ]
