@@ -54,7 +54,7 @@
         "id": "udI4Fh3xbvk"
     },
     {
-        "boss": "Normal Lotus",
+        "boss": "Normal Lucid",
         "date": "240817",
         "week": 4,
         "id": "m8UMfsuHQ9U"
@@ -72,7 +72,7 @@
         "id": "1KcCqqH8g3A"
     },
     {
-        "boss": "Normal Lotus",
+        "boss": "Normal Lucid",
         "date": "240823",
         "week": 5,
         "id": "fFfdj3pIC9s"
@@ -82,5 +82,65 @@
         "date": "240823",
         "week": 5,
         "id": "fOSMzVuCBnA"
+    },
+    {
+        "boss": "Normal Lucid",
+        "date": "240901",
+        "week": 6,
+        "id": "3887ZaYB8Vw"
+    },
+    {
+        "boss": "Easy Will",
+        "date": "240901",
+        "week": 6,
+        "id": "lMpqiTKHBgs"
+    },
+    {
+        "boss": "Normal Lucid",
+        "date": "240910",
+        "week": 7,
+        "id": "LKBJzIvshH8"
+    },
+    {
+        "boss": "Easy Will",
+        "date": "240910",
+        "week": 7,
+        "id": "mdmqsR6H3-c"
+    },
+    {
+        "boss": "Normal Lucid",
+        "date": "240915",
+        "week": 8,
+        "id": "5pfI40LwkMU"
+    },
+    {
+        "boss": "Easy Will",
+        "date": "240915",
+        "week": 8,
+        "id": "c_7aBNWAjpE"
+    },
+    {
+        "boss": "Normal Lucid",
+        "date": "240926",
+        "week": 9,
+        "id": "wDTvB4XyRJA"
+    },
+    {
+        "boss": "Easy Will",
+        "date": "240926",
+        "week": 9,
+        "id": "n2_12vITdvo"
+    },
+    {
+        "boss": "Normal Lucid",
+        "date": "240929",
+        "week": 10,
+        "id": "rArW-XuWjy8"
+    },
+    {
+        "boss": "Easy Will",
+        "date": "240929",
+        "week": 10,
+        "id": "ke4JkK4kQ5g"
     }
 ]
