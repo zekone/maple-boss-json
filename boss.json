@@ -138,9 +138,45 @@
         "id": "rArW-XuWjy8"
     },
     {
-        "boss": "Easy Will",
+        "boss": "Normal Will",
         "date": "240929",
         "week": 10,
         "id": "ke4JkK4kQ5g"
+    },
+    {
+        "boss": "Normal Darknell",
+        "date": "241002",
+        "week": 10,
+        "id": "FMFgO0iIGQg"
+    },
+    {
+        "boss": "Normal Gloom",
+        "date": "241002",
+        "week": 10,
+        "id": "so6Mys0xYz4"
+    },
+    {
+        "boss": "Normal Darknell",
+        "date": "241008",
+        "week": 11,
+        "id": "tQpWTTrSzhc"
+    },
+    {
+        "boss": "Normal Gloom",
+        "date": "241008",
+        "week": 11,
+        "id": "01WGreEBehE"
+    },
+    {
+        "boss": "Normal Darknell",
+        "date": "241016",
+        "week": 12,
+        "id": "AxHupWFRDXE"
+    },
+    {
+        "boss": "Normal Gloom",
+        "date": "241016",
+        "week": 12,
+        "id": "IAfDtbb0G8I"
     }
 ]
