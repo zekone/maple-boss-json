@@ -178,5 +178,65 @@
         "date": "241016",
         "week": 12,
         "id": "IAfDtbb0G8I"
+    },
+    {
+        "boss": "Normal Darknell",
+        "date": "241023",
+        "week": 13,
+        "id": "mUrbi7LrUGk"
+    },
+    {
+        "boss": "Normal Gloom",
+        "date": "241023",
+        "week": 13,
+        "id": "Q3lKoHmLKk8"
+    },
+    {
+        "boss": "Normal Darknell",
+        "date": "241029",
+        "week": 14,
+        "id": "YXsoBM6uJqc"
+    },
+    {
+        "boss": "Normal Gloom",
+        "date": "241029",
+        "week": 14,
+        "id": "Onc-BU6363M"
+    },
+    {
+        "boss": "Normal Darknell",
+        "date": "241105",
+        "week": 15,
+        "id": "vSh9aPg4gZk"
+    },
+    {
+        "boss": "Normal Gloom",
+        "date": "241105",
+        "week": 15,
+        "id": "FG1QDB3T-2Y"
+    },
+    {
+        "boss": "Normal Darknell",
+        "date": "241112",
+        "week": 16,
+        "id": "kguwxjc93xg"
+    },
+    {
+        "boss": "Normal Gloom",
+        "date": "241112",
+        "week": 16,
+        "id": "43bg6ZBDuUg"
+    },
+    {
+        "boss": "Hard Damien",
+        "date": "241116",
+        "week": 17,
+        "id": "V8cYNQF9h00"
+    },
+    {
+        "boss": "Hard Lotus",
+        "date": "241116",
+        "week": 17,
+        "id": "-bZ-GoYkTwU"
     }
 ]
