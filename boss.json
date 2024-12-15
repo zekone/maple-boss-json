@@ -238,5 +238,47 @@
         "date": "241116",
         "week": 17,
         "id": "-bZ-GoYkTwU"
+    },
+    {
+        "boss": "Hard Damien",
+        "date": "241125",
+        "week": 18,
+        "id": "N_wkjS6h_YM"
+    },
+    {
+        "boss": "Hard Lotus",
+        "date": "241125",
+        "week": 18,
+        "id": "y4TX6HjMmZs"
+    },
+    {
+        "boss": "Hard Damien",
+        "date": "241201",
+        "week": 19,
+        "id": "LWcC3NdZGvQ"
+    },
+    {
+        "boss": "Hard Lotus",
+        "date": "241201",
+        "week": 19,
+        "id": "BK5J1VwmerU"
+    },
+    {
+        "boss": "Hard Lucid",
+        "date": "241206",
+        "week": 20,
+        "id": "83guPLloapA"
+    },
+    {
+        "boss": "Hard Lucid",
+        "date": "241212",
+        "week": 21,
+        "id": "v8O4cWN-Gzc"
+    },
+    {
+        "boss": "Hard Will",
+        "date": "241214",
+        "week": 21,
+        "id": "XPHmgGx3P3w"
     }
 ]
